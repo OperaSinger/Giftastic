@@ -1,0 +1,54 @@
+container {
+    font-family: 'Poiret One', cursive;
+    box-sizing: border-box;
+}
+
+header {
+    font-family: 'Poiret One', cursive;
+    text-shadow: 2px 2px white;
+    margin-top: 15;
+    font-size: 60px;
+    width: 100%;
+    background: url('assets/images/gifcollection.jpg');
+    background-size: cover;
+    border-bottom: 1px solid gray;
+}
+
+.form-control {
+    padding: 5px;
+    margin: 5px;
+}
+
+.btn {
+    margin: auto;
+
+}
+
+nav {
+    font-family: 'Poiret One', cursive;
+    border-top: 1px solid gray;
+}
+
+#buttons {
+    border: 1px solid gray;
+    padding: 5px;
+    margin-top: 5px;
+    align;
+}
+
+#mainContent {
+    padding: 5px;
+    margin: 5px 0px 5px 5px;
+}
+
+#expressions {
+    font-family: 'Poiret One', cursive;
+    border-bottom: 1px solid gray;
+}
+
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+}
