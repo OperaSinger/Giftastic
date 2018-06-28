@@ -9,9 +9,14 @@ header {
     margin-top: 15;
     font-size: 60px;
     width: 100%;
-    background: url('assets/images/gifcollection.jpg');
+    background: url('../images/gifcollection2.jpg');
     background-size: cover;
     border-bottom: 1px solid gray;
+}
+
+#enter {
+    padding: 5px;
+    margin: 5px;
 }
 
 .form-control {
@@ -52,3 +57,28 @@ nav {
     margin-left: auto;
     font-size: 20px;
 }
+
+#images {
+    width: inherit;
+}
+
+#gifLeft {
+    
+    /* margin-left: 10px; */
+    overflow: hidden;
+    width: inherit;
+    margin-left: 10px;
+}​
+
+#gifRight {
+    /* margin-right: 10px;     */
+    overflow: hidden;
+    width: inherit;
+    margin-right: 10px;
+}
+
+.gif {
+    margin-top: 10px;
+
+}
+
